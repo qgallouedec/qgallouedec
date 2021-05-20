@@ -6,4 +6,8 @@
 
 ## Interests
 
-- Reinforcement Learning for robotics
+- Deep Reinforcement Learning
+- Self-supervised Learning
+- MDP Theory
+- Robotic learning
+
