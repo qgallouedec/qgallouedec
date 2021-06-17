@@ -10,3 +10,6 @@
 - MDP Theory
 - Robotic learning
 
+## Stats
+
+![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qgallouedec&hide=contribs,prs)
