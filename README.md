@@ -1,17 +1,7 @@
 # Quentin GALLOUÉDEC
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qgallouedec/)
-[![Medium Badge](  https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white")](https://qgallouedec.medium.com)
-[![Medium Badge](  https://img.shields.io/badge/-Scholar-white?style=flat-square&logo=GoogleScholar&logoColor=white")](https://scholar.google.com/citations?user=MDIW57UAAAAJ&hl=fr)
-
-## Interests
-
-- Deep Reinforcement Learning
-- Hard-exploration problems
-- Self-supervised Learning
-- MDP Theory
-- Robotics learning
-
-## Stats
-
-![Quentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=qgallouedec&hide=contribs,prs)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qgallouedec/)
+[![Medium Badge](https://img.shields.io/badge/Medium-black?logo=Medium&logoColor=white)](https://qgallouedec.medium.com)
+[![Scholar Badge](https://img.shields.io/badge/Scholar-white?logo=GoogleScholar)](https://scholar.google.com/citations?user=MDIW57UAAAAJ)
+[![Hugging Face Badge](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/qgallouedec)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/Qgallouedec)
